@@ -64,7 +64,7 @@ p {
   margin-bottom: 20px;
 }
 a {
-  text-decoration: solid;
+  text-decoration: none;
   font-weight: bold;
   color: #4aad52;
   font-size: clamp(1rem, 1rem + 1vw, 1.4rem);
@@ -73,7 +73,7 @@ a {
   margin-bottom: 0;
 }
 nav a {
-  text-decoration: solid;
+  text-decoration: none;
   font-weight: bold;
   font-size: clamp(1.25rem, 0.5rem + 1vw, 1.5rem);
   padding-left: 0px;
